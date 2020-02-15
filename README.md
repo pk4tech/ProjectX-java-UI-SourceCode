@@ -13,6 +13,7 @@ This Java programm is made with the help of NetBeans where I had learn many new 
 
     --And much new things 
 
+## Screenshot
 
 ![ProjectX Screenshot](ProjectX.png)
 
